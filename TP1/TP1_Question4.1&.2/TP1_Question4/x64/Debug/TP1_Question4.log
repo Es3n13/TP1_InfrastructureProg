@@ -1,0 +1,3 @@
+﻿  Assembling Procedure.asm...
+legacy_stdio_wide_specifiers.lib(legacy_stdio_wide_specifiers.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+  TP1_Question4.vcxproj -> D:\UQAR\2025 Automne\Infrastructure de programmation\MASM\TP1_Question4\x64\Debug\TP1_Question4.exe
